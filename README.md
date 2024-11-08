@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amod-CMS.
+- 👋 Hi, I’m Amod Nagpal
 - 👀 I’m interested in NLP, GEN AI, Chatbot building.
 - 🌱 I’m currently working as a Data Scientist.
 - 💞️ I’m looking to collaborate on Generative AI applications.
